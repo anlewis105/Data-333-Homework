@@ -1,0 +1,45 @@
+---
+title: "How COVID-19 Ended Flu Season Before It Started"
+author: "Anika Lewis"
+date: "2/5/2021"
+output: html_document
+---
+![Image Credit: Anne Baek Getty Images](/Users/anikalewis/Downloads/R studio/DB996CFB-C0E5-42DC-971BBE5FE8050F0F_source.jpg.webp)
+
+Link to full article:https://fivethirtyeight.com/features/how-covid-19-ended-flu-season-before-it-started/
+
+**Key Points**
+
+* In this article author Maggie Koerth, gives several hypotheses to explain the historically low amount of flu cases reported this flu season. 
+
+* She gives these hypotheses:
+    + We don't test for the flu the same way that we test for covid. 
+        + Most people do not get tested for the flu after catching it. This leads to a possible under reporting of positive flu cases.
+        
+    + Mask-wearing, social distancing, obsessive cleaning of surfaces, keeping children (the biggest vectors) out of the classroom.
+    
+    + Herd immunity
+        + There are enough people wearing masks and social distancing to benefit the entire community.
+
+**Data Source(s)**
+
+* The data used in the article was taken from "The CDC's voluntary networks of clinical and public health laboratories during the third week of Janurary, 2011-2021".
+    + The author states that she used the data to calculate "the overall share that tested positive for the flu from 2016-2021"
+    + She then produced a table that displayed data such as: Year, Number Tested, Number Positive, Percent Positive.
+
+* Additional statistics included in the article were taken from news websites such as _the Guardian_.
+
+![Table shown in article](/Users/anikalewis/Downloads/R studio/Screen Shot 2021-02-05 at 8.39.48 PM.png){width=30%}
+
+**From Data to Insight**
+
+* The researchers at the CDC collected, organized, and cleaned the raw data before saving it on an excel file. They than uploaded it on their website, free of charge.
+* The writer of the article downloaded the raw data, and then took a look at it. She thought of new questions that she wanted to explore using the data, she planned how the tools and processes that she would use to answer these questions. 
+* She uploaded the data onto a data program that is capable of doing calculations and visualizations.
+* She filtered the data so that she would see only the columns that she wanted... or if these columns did not exist, she created new columns by doing calculations on currently existing data. 
+* She might have added color to her graph, so that certain data points stand out to both her and her audience.
+* Finally, after studying her visualization, for intereting patterns, she derived her conclusions.
+* **BONUS:** In order to answer this question fully, I decided to put myself directly into the shoes of the data analyst. I was able to create a similar table,it is not the same because I could not find the dataset that was used in the article. 
+
+![My Graph](/Users/anikalewis/Desktop/Screen Shot 2021-02-06 at 12.12.18 AM.png)
+Data used:https://www.cdc.gov/flu/weekly/usmap.htm
